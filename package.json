@@ -1,0 +1,24 @@
+{
+  "name": "skyeye",
+  "version": "0.0.1",
+  "description": "skyeye,天眼计划,nodejs爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyFi/skyeye.git"
+  },
+  "keywords": [
+    "skyeye",
+    "nodejs",
+    "spider"
+  ],
+  "author": "skylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyFi/skyeye/issues"
+  },
+  "homepage": "https://github.com/skyFi/skyeye#readme"
+}
